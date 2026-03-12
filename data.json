@@ -1,0 +1,21 @@
+{
+  "applications": [
+    "Order Fulfillment",
+    "Sales and Operation Planning",
+    "Inventory Management",
+    "Inventory Planning and Optimization",
+    "Master Production Scheduling",
+    "Supply Action Management",
+    "DemandPlanning",
+    "Aggregate Supply Planning",
+    "Capacity Planning- Constraints",
+    "Capacity Requirements Planning",
+    "Distribution Requirements Planning",
+    "Engineering Change Management",
+    "Supplier Collaboration",
+    "Integrated Project Management",
+    "Self-Healing Supply Chain"
+  ],
+  "relations": [],
+  "table_relations": []
+}
